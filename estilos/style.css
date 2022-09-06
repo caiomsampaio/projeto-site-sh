@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+header {
+    height: 150px;
+    background-color: black;
+    color: white;
+}
+
+#imagemsh {
+    display: inline-block;
+}
+
+#burguer {
+    display: block;
+    padding-top: 8px;
+    cursor: pointer;
+    
+}
